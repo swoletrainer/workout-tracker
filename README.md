@@ -4,9 +4,9 @@
 1. Get into the root directory of app _~/workout-tracker_.
 2. Activate the virtual environment:
     1. Linux: 
-        >>>source tracker-venv/bin/activate
+        ### >>>source tracker-venv/bin/activate
     2. Windows: 
-        >>> tracker-venv\Scripts\activate
+        ### >>> tracker-venv\Scripts\activate
 3. Deactivate the virtual environment when your session is over (when your'e done coding)
     ### >>>deactivate
 
@@ -14,8 +14,8 @@
 1. Go into the root directory of app _~/workout-tracker_.
 2. Start server:
     * Linux: 
-        >>> export FLASK_APP=hello.py
-        >>> flask run
+        ### >>> export FLASK_APP=hello.py
+        ### >>> flask run
     * Windows: 
-        >>> set FLASK_APP=hello.py
-        >>> flask run
+        ### >>> set FLASK_APP=hello.py
+        ### >>> flask run
