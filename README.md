@@ -19,3 +19,6 @@
     * Windows: 
         ### >>> set FLASK_APP=hello.py
         ### >>> flask run
+
+# Consult Moment.js Documentation
+* http://momentjs.com/docs/#/displaying/
