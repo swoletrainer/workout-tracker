@@ -1,5 +1,13 @@
 # workout-tracker: A way to track your f(i)r(i)ends
 
+## Packages
+* pip install flask-wtf
+* pip install flask
+* pip install flask-moment
+* pip install flask-bootstrap
+* 
+
+
 ## Just a reminder to myslef to activate the virtual environment, and the one step required to do so:
 1. Get into the root directory of app _~/workout-tracker_.
 2. Activate the virtual environment:
@@ -22,3 +30,4 @@
 
 # Consult Moment.js Documentation
 * http://momentjs.com/docs/#/displaying/
+
